@@ -1,2 +1,2 @@
-# Diwali-Sales-Analysis
+# E-Commerce Sales Analysis
 Python
